@@ -1,0 +1,1 @@
+{"orbit": {"planet_mass": 5000.0, "planet_radius": 40, "camera_pan": false}, "optics": {"max_bounces": 8, "add_mirror_trigger": 2, "show_angles": false, "animate_laser_trigger": 5, "anim_speed": 0.1, "anim_trail": 3, "mirrors_config": {"Mirror 1 (Default)": {"length": 112, "curve": -24}, "Mirror 2": {"length": 153, "curve": -19}, "Mirror 3": {"length": 100, "curve": 0}}}}
